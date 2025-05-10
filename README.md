@@ -1,4 +1,5 @@
 ## Olá! Sou o Robson Camargo👋
+Tenho experiência com as seguintes ferramentas 👇
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
@@ -7,7 +8,8 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width="35" height="35" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="35" height="35"/>             
-</div>      
+</div>
+Também tenho conhecimento em DataBricks e PySpark
 
 <!--
 **Camargo098/Camargo098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
