@@ -1,12 +1,12 @@
 ## Olá! Sou o Robson Camargo👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" />          
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="50" height="50" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width="50" height="50" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="35" height="35" />          
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="35" height="35" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width="35" height="35" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="35" height="35"/>
           
           
 </div>      
