@@ -2,6 +2,7 @@
 
 <div sytle="display: flex; align-items: center;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg",width="35" height="35" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg", width="35" height="35" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg", width="35" height="35" />
 </div>
 
