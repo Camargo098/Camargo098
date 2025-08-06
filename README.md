@@ -1,5 +1,5 @@
 ## Olá! Sou o Robson Camargo👋
-Tenho experiência com as seguintes ferramentas 👇
+[![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
