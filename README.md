@@ -23,7 +23,7 @@ Sou um analista de dados apaixonado por transformar dados em insights valiosos. 
 Aqui estão alguns dos meus projetos mais recentes:
 - [Análise de resultados da Mega-Sena](https://github.com/Camargo098/analise-mega-sena/blob/main/notebooks/analise_mega-sena.ipynb): Fazendo o uso de técnicas de analise de dados e visualização, examinei 2864 concursos da Mega-Sena, revelando comportamentos interessantes que desafiam algumas crenças populares e confirmam outras. Aqui, minha ideai não é descobrir uma "formula mágica" para ganhar na loteria, mais sim apresentar uma visão baseada em dados sobre como os números se comportam ao longo do tempo.
 
-- [Projeto 2](link-do-projeto-2): Descrição breve do projeto.
+- [Previsão de churn em cliente bancários](https://github.com/Camargo098/customer-churn-analysis/tree/main): Este projeto desenvolve uma solução para prever o churn de clientes em um serviço bancário, utilizando Python e bibliotecas como Pandas e Scikit-Learn. O objetivo é identificar fatores associados ao churn e criar um modelo preditivo que ajude a equipe do banco a implementar ações proativas para melhorar a retenção de clientes. A metodologia CRISP-DM foi aplicada para garantir uma abordagem estruturada no desenvolvimento da solução.
 - [Projeto 3](link-do-projeto-3): Descrição breve do projeto.
 
 ### Contato
