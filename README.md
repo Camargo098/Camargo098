@@ -21,6 +21,8 @@ Sou um analista de dados apaixonado por transformar dados em insights valiosos. 
 
 ### Projetos
 Aqui estão alguns dos meus projetos mais recentes:
+-[Dash Streamlit - Dashboard Interativo com Streamlit e Plotly](O principal objetivo deste projeto é aprimorar e exibir minhas proficiências em SQL por meio de uma análise abrangente dos dados da Contoso. Minha meta é responder a perguntas de negócio cruciais, realizar análises aprofundadas e validar os resultados, culminando em conclusões acionáveis e recomendações estratégicas para impulsionar o sucesso da Contoso. Este exercício servirá como um portfólio prático de minhas capacidades analíticas e de manipulação de dados em SQL.)
+
 - [Análise de resultados da Mega-Sena](https://github.com/Camargo098/analise-mega-sena/blob/main/notebooks/analise_mega-sena.ipynb): Fazendo o uso de técnicas de analise de dados e visualização, examinei 2864 concursos da Mega-Sena, revelando comportamentos interessantes que desafiam algumas crenças populares e confirmam outras. Aqui, minha ideai não é descobrir uma "formula mágica" para ganhar na loteria, mais sim apresentar uma visão baseada em dados sobre como os números se comportam ao longo do tempo.
 
 - [Previsão de churn em cliente bancários](https://github.com/Camargo098/customer-churn-analysis/tree/main): Este projeto desenvolve uma solução para prever o churn de clientes em um serviço bancário, utilizando Python e bibliotecas como Pandas e Scikit-Learn. O objetivo é identificar fatores associados ao churn e criar um modelo preditivo que ajude a equipe do banco a implementar ações proativas para melhorar a retenção de clientes. A metodologia CRISP-DM foi aplicada para garantir uma abordagem estruturada no desenvolvimento da solução.
