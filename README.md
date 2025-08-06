@@ -1,8 +1,9 @@
 ## Olá! Sou o Robson Camargo👋
 
+<div sytle="display: flex; align-items: center;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg",width="35" height="35" />
+</div>
 
-
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg",width="35" height="35"/>
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
