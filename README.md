@@ -21,13 +21,13 @@ Sou um analista de dados apaixonado por transformar dados em insights valiosos. 
 
 ### Projetos
 Aqui estão alguns dos meus projetos mais recentes:
-- [Projeto 1](link-do-projeto-1): Descrição breve do projeto.
+- [Análise de resultados da Mega-Sena](https://github.com/Camargo098/analise-mega-sena/blob/main/notebooks/analise_mega-sena.ipynb): Fazendo o uso de técnicas de analise de dados e visualização, examinei 2864 concursos da Mega-Sena, revelando comportamentos interessantes que desafiam algumas crenças populares e confirmam outras. Aqui, minha ideai não é descobrir uma "formula mágica" para ganhar na loteria, mais sim apresentar uma visão baseada em dados sobre como os números se comportam ao longo do tempo..
 - [Projeto 2](link-do-projeto-2): Descrição breve do projeto.
 - [Projeto 3](link-do-projeto-3): Descrição breve do projeto.
 
 ### Contato
 Sinta-se à vontade para entrar em contato comigo:
-- Email: seuemail@exemplo.com
-- LinkedIn: [Seu LinkedIn](link-do-seu-linkedin)
+- Email: robsoncamargo098@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rcamargo98/)
 
 Agradeço pela visita ao meu perfil! Estou sempre aberto a novas oportunidades e colaborações.
